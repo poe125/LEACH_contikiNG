@@ -37,7 +37,7 @@ For LEACH-C protocol, use leach_c.c and leach_c_edge_gateway.c.
 3. Click 'Look In' and navigate to:
 examples/nullnet/leach.c
 ```
-![Cooja Simulation](screenshots/4.png)
+![Cooja Simulation](screenshots/3.png)
 ```
 
 4. Press open, compile, and create the mote
@@ -45,10 +45,6 @@ examples/nullnet/leach.c
 5. Choose the number of motes you want to create
 
 Repeat the same steps for leach_edge_gateway.c and create 1 gateway mote.
-
-```
-![Cooja Simulation](screenshots/5.png)
-```
 
 5. Run the Simulation
 Press Start / Pause to start the simulation
