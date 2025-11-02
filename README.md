@@ -30,9 +30,6 @@ For LEACH-C protocol, use leach_c.c and leach_c_edge_gateway.c.
 1. File → New simulation → Create
 
 2. Motes → Add motes → Create new mote type → Cooja mote
-```
-![Cooja Simulation](screenshots/1.png)
-```
 
 3. Click 'Look In' and navigate to:
 examples/nullnet/leach.c
@@ -54,5 +51,9 @@ Tips:
 Ensure Java is installed for Cooja
 Use leach_c.c and leach_c_edge_gateway.c for LEACH-C implementation
 Adjust the number of motes to see how network performance scales
+
+---
+
+
 
 * Developed as part of the UCSC CSE257 Masters course.
