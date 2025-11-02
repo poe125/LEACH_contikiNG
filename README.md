@@ -37,10 +37,8 @@ For LEACH-C protocol, use leach_c.c and leach_c_edge_gateway.c.
 2. Motes → Add motes → Create new mote type → Cooja mote
 
 3. Click 'Look In' and navigate to:
-examples/nullnet/leach.c
-```
+examples/nullnet/leach's
 ![Cooja Simulation](screenshots/3.png)
-```
 
 4. Press open, compile, and create the mote
 
@@ -60,40 +58,39 @@ Adjust the number of motes to see how network performance scales
 ---
 ## LEACH Overall System Diagram
 
-```
 ![Cooja Simulation](screenshots/system.png)
-```
+
 **Processes:**
 
 1. Main process
-```
+
 ![Cooja Simulation](screenshots/receive_ad.png)
-```
+
 2. CH selection process
-```
+
 ![Cooja Simulation](screenshots/CH_selection.png)
-```
+
 3. CH advertisement process
 4. Non CH advertisement process
-```
+
 ![Cooja Simulation](screenshots/unicast.png)
-```
+
 5. TDMA schedule creation process
 6. TDMA data transmission process
-```
+
 ![Cooja Simulation](screenshots/TDMA.png)
-```
+
 7. CH data fusion process
-```
+
 ![Cooja Simulation](screenshots/data_fuse.png)
-```
+
 (8. Energy calculation process)
-```
+
 ![Cooja Simulation](screenshots/energy_calc.png)
-```
+
 9. Free variable process
-```
+
 ![Cooja Simulation](screenshots/sinkend.png)
-```
+
 
 * Developed as part of the UCSC CSE257 Masters course.
