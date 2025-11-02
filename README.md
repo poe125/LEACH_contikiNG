@@ -1,7 +1,11 @@
 # Contiki-NG LEACH Protocol Simulation
 
 This project demonstrates the implementation and simulation of the **LEACH protocol** in Contiki-NG using the Cooja simulator.
+LEACH: W. R. Heinzelman, A. Chandrakasan and H. Balakrishnan, "Energy-efficient communication protocol for wireless microsensor networks," Proceedings of the 33rd Annual Hawaii International Conference on System Sciences, Maui, HI, USA, 2000, pp. 10 pp. vol.2-, doi: 10.1109/HICSS.2000.926982. keywords: {Energy efficiency;Wireless application protocol;Wireless communication;Microsensors;Energy dissipation;Routing protocols;Telecommunication network reliability;Monitoring;Spread spectrum communication;Scalability},
 
+LEACH-C: W. B. Heinzelman, A. P. Chandrakasan and H. Balakrishnan, "An application-specific protocol architecture for wireless microsensor networks," in IEEE Transactions on Wireless Communications, vol. 1, no. 4, pp. 660-670, Oct. 2002, doi: 10.1109/TWC.2002.804190.
+keywords: {Wireless application protocol;Microsensors;Energy efficiency;Delay;Signal processing algorithms;Remote monitoring;Intelligent networks;Robustness;Wireless communication;Access protocols},
+ 
 ---
 
 ## 1. Install Contiki-NG
