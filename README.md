@@ -26,7 +26,7 @@ leach_edgegateway.c
 
 For LEACH-C protocol, use leach_c.c and leach_c_edge_gateway.c.
 
-![alt text](https://github.com/poe125/LEACH_contikiNG/blob/main/screenshots/1.png "Logo Title Text 1")
+![Cooja Simulation](screenshots/1.png)
 
 4. Create a Simulation in Cooja
 1. File → New simulation → Create
