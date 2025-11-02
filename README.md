@@ -1,6 +1,7 @@
 # Contiki-NG LEACH Protocol Simulation
 
 This project demonstrates the implementation and simulation of the **LEACH protocol** in Contiki-NG using the Cooja simulator. 
+
 ---
 
 # 1. Install Contiki-NG
