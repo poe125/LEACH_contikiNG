@@ -11,18 +11,23 @@ Clone the Contiki-NG repository:
 ```bash
 git clone https://github.com/contiki-ng/contiki-ng
 cd contiki-ng
+```
 
 2. Run Cooja
 Navigate to the Cooja tool directory and run it:
+```bash
 cd ~/contiki-ng/tools/cooja
 ./gradlew run
+```
 
 3. Implement LEACH Protocol
+```bash
 cd ~/contiki-ng/examples/nullnet
+```
 Add the following files:
-Makefile
-leach.c
-leach_edgegateway.c
+- Makefile
+- leach.c
+- leach_edgegateway.c
 
 For LEACH-C protocol, use leach_c.c and leach_c_edge_gateway.c.
 
