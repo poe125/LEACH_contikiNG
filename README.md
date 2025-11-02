@@ -5,7 +5,7 @@ This project demonstrates the implementation and simulation of the **LEACH proto
 ---
 
 # 1. Install Contiki-NG
-
+(Under Ubuntu)
 Clone the Contiki-NG repository:
 
 ```bash
