@@ -1,6 +1,6 @@
 # Contiki-NG LEACH Protocol Simulation
 
-This project demonstrates the implementation and simulation of the **LEACH protocol** in Contiki-NG using the Cooja simulator. 
+This project demonstrates the implementation and simulation of the **Low energy adaptive clustering hierarchy (LEACH) protocol** in Contiki-NG using the Cooja simulator. 
 
 ---
 
